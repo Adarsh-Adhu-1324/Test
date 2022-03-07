@@ -9,6 +9,7 @@ arr.push(3);
 
 console.log(arr);
 
+
 //removing
 console.log(arr.pop(2));
 
