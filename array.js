@@ -1,5 +1,4 @@
 
-
 arr = []
 //adding
 arr.push(1);
